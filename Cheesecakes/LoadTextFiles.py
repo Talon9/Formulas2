@@ -5,7 +5,7 @@ import Classes.cImportFormula as NF
 import Classes.cImportFormulaLines  as IFL
 
        
-for file in glob.glob(r'H:\FoodData\Cheesecake\*.txt'):
+for file in glob.glob(r'H:\FoodData\ToBeLoaded\*.txt'):
     with open (file, 'r') as f:
  
         fname = f.name
