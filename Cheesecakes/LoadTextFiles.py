@@ -45,4 +45,4 @@ for file in glob.glob(r'H:\FoodData\ToBeLoaded\*.txt'):
             print(F)
             print('-----------------------')
 
-     
+print('--- Completed ---')     
